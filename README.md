@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**YuiHrsw/YuiHrsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently studying computer science.
+- 💻 I'm interested in developing desktop apps.
+- 🎨 I seriously love [Material You](https://m3.material.io/).
 
-Here are some ideas to get you started:
+#### My favourite languages and frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![dart](https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart3.svg) 
+![cpp](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg)
+![cs](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp3.svg)
+
+![flutter](https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter1.svg)
+![dotnet](https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet1.svg)
+
+
